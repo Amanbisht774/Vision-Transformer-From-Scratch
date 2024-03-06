@@ -1,4 +1,5 @@
 # Vision Transformer Implementation from Scratch!
+![Vision Transformer](https://github.com/Amanbisht774/Vision-Transformer-From-Scratch/assets/41383403/e9dbae92-645b-4dce-87c6-f75a9571af04)
 
 ## Introduction
 Welcome to the Vision Transformer from Scratch! GitHub repository! This project, developed by Aman Bisht, is a detailed implementation of the Vision Transformer (ViT), a groundbreaking architecture that has revolutionized the field of computer vision. Unlike traditional convolutional neural networks, ViT relies on the self-attention mechanism to process images, offering a novel approach to understanding visual data. This repository not only includes the complete code for the Vision Transformer but also provides comprehensive explanations of each part of the code, the input processing, and the output generation mechanisms.
